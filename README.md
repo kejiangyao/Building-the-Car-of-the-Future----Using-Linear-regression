@@ -13,4 +13,4 @@ Build a linear regression model to accurately predict miles per gallon (MPG) bas
 Part 3:
 Optimize the model using selection techniques, explain whether the model can achieve the specified goals, and describe which attributes contribute to higher MPG over others.
 
-Both of these three parts will be completed using Python on Jupyter Notebook. Necessary codes and visuals will be attached directly within this report, and the full python script will be submitted separately in another file.
+Both of these three parts will be completed using Python on Jupyter Notebook. Necessary codes and visuals will be attached directly within the report, and the full python script is in another file.
